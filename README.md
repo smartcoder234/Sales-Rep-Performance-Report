@@ -4,9 +4,9 @@ This project involves analyzing sales representative data to gain insights into 
 
 ## Objectives
   1. Analyze overall sales performance by sales rep.
-  2. Identify trends and patterns in sales data in each location.
+  2. Identify customer trends by month.
   3. Determine key factors influencing sales.
-  4. Provide recommendations for improving sales strategies.
+
 
 The analysis provides insights into sales trends, key performance indicators, and factors affecting sales. These insights can be used to develop strategies to boost sales and improve overall performance.
 
